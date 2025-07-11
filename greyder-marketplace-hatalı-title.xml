@@ -1,0 +1,69 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>GoogleMerchant</title>
+<link>https://www.greyder.com.tr/</link>
+<description>Google Merchant Feed XML (RSS 2.0)</description>
+<item>
+<description>
+<![CDATA[ <p>2021 Summer Season</p> ]]>
+</description>
+<link>https://www.greyder.com.tr/57481-zn-chic-casual-ayk-s_175791</link>
+<g:image_link>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582229999866277.jpg</g:image_link>
+<g:id>175791</g:id>
+<g:item_group_id>1Y2YA57481</g:item_group_id>
+<g:product_type>AYAKKABI</g:product_type>
+<g:mpn>1Y2YA57481-9753</g:mpn>
+<g:price>899.00</g:price>
+<g:retailPrice>1799.00</g:retailPrice>
+<g:google_product_category>Kadın / Kadın Ayakkabı / Kadın Comfort Ayakkabı</g:google_product_category>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:stock>3</g:stock>
+<g:images>
+<g:image1>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582230027525225.jpg</g:image1>
+<g:image2>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582230037708494.jpg</g:image2>
+<g:image3>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582230019711950.jpg</g:image3>
+<g:image4>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582230022368557.jpg</g:image4>
+<g:image5>https://cdn-greyder.mncdn.com/Content/media/ProductImg/original/1y2ya57481-9753-57481-gunluk-kadin-ayakkabi-mavi-637582230042723858.jpg</g:image5>
+</g:images>
+<sezon>2021 İlkbahar-Yaz</sezon>
+<cinsiyet>Kadın</cinsiyet>
+<kategori>Kadın Ayakkabı</kategori>
+<alt_kategori>Kadın Comfort Ayakkabı</alt_kategori>
+<g:color>Mavi</g:color>
+<Combination Sku="stokkody">
+<Attributes>
+<g:size name="Numara">39</g:size>
+<g:availability>out of stock</g:availability>
+<g:stock>0</g:stock>
+<g:barcode>2100000260687</g:barcode>
+</Attributes>
+<Attributes>
+<g:size name="Numara">37</g:size>
+<g:availability>out of stock</g:availability>
+<g:stock>5</g:stock>
+<g:barcode>2100000260685</g:barcode>
+</Attributes>
+<Attributes>
+<g:size name="Numara">40</g:size>
+<g:availability>out of stock</g:availability>
+<g:stock>0</g:stock>
+<g:barcode>2100000260688</g:barcode>
+</Attributes>
+<Attributes>
+<g:size name="Numara">38</g:size>
+<g:availability>out of stock</g:availability>
+<g:stock>0</g:stock>
+<g:barcode>2100000260686</g:barcode>
+</Attributes>
+<Attributes>
+<g:size name="Numara">36</g:size>
+<g:availability>in stock</g:availability>
+<g:stock>3</g:stock>
+<g:barcode>2100000260684</g:barcode>
+</Attributes>
+</Combination>
+<g:brand>Greyder</g:brand>
+</item>
+</channel>
+</rss>
